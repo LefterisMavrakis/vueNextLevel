@@ -231,6 +231,60 @@
       "date": "",
       "time": "5:00",
       "attendees": []
+    },
+    {
+      "id": 8396914,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "aaaa",
+      "description": "aaaaa",
+      "location": "aaaa",
+      "date": "2020-04-07T13:11:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 5624142,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "ewfrsdf",
+      "description": "sfdfdsf",
+      "location": "sdfdsf",
+      "date": "2020-04-03T13:38:00.000Z",
+      "time": "20:00",
+      "attendees": []
+    },
+    {
+      "id": 2385451,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "title": "aSAS",
+      "description": "asAS",
+      "location": "asAS",
+      "date": "2020-06-11T13:43:00.000Z",
+      "time": "11:00",
+      "attendees": []
     }
   ]
 }
